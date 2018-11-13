@@ -1,0 +1,16 @@
+.house-banner{
+background-size: cover !important;
+width: 100vw;
+height: 100vh;
+display: flex;
+clip:rect(0, 0, 10px, 20px);
+align-items: center;
+justify-content: center;
+}
+
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}

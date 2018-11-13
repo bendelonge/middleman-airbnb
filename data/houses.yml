@@ -1,0 +1,27 @@
+bigouden:
+  name: "Le chaumeur"
+  description: "Charmante chaumière"
+  city_name: "Kerchaumieux"
+  city_slug: "kerchaumieux"
+  wifi: true
+  rating: 3
+  img: chaumiere.jpg
+  avatar: bigouden.jpg
+tugdual:
+  name: "Le Phare"
+  description: Ancienne maison de phare
+  city_name: "Pharc"
+  city_slug: "pharc"
+  wifi: false
+  rating: 4
+  img: maison-phare.jpg
+  avatar: pecheur.jpg
+conan:
+  name: Le Rocher
+  description: Ilet privé
+  city_name: "Plourocher"
+  city_slug: "plourocher"
+  wifi: false
+  rating: 5
+  img: maison-ile.jpg
+  avatar: conan.jpg

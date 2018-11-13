@@ -10,7 +10,7 @@ $body-bg:                 $green-shiny;
 $font-size-base: 18px;
 
 // Colors
-$gray-base:       $gray;
+$gray-base:       $gainsboro;
 $brand-primary:   $green-shiny;
 $brand-success:   $green;
 $brand-info:      $yellow;
@@ -23,3 +23,7 @@ $border-radius-large: 25px;
 $border-radius-small: 2px;
 
 // Override other variables below!
+
+h2 {
+  color: $gainsboro;
+}
